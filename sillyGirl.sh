@@ -105,7 +105,7 @@ sillyGirl()
     fi
     #获取dev.go文件
     echo "下载dev.go文件"
-    wget https://ghproxy.com/https://raw.githubusercontent.com/hdbjlizhe/oneKeyForSillGirl/main/dev.go
+    wget https://ghproxy.com/https://raw.githubusercontent.com/ZQCCBOY/sillyGirl-/main/dev.go
     #进入develop文件夹
     if [[ $? == 0 ]]; then
         sleep 3s
